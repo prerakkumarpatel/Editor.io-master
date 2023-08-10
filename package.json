@@ -12,6 +12,7 @@
     "react": "^18.0.0",
     "react-bootstrap": "^2.1.0",
     "react-codemirror2": "^7.2.1",
+    "js-file-download": "^0.4.12",
     "react-autosize-textarea": "^7.1.0",
     "react-dom": "^18.0.0",
     "react-router-dom": "^6.1.0",
